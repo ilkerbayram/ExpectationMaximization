@@ -1,2 +1,2 @@
-# ExpectationMaximization
+# Expectation Maximization
 A notebook describing and demonstrating the EM algorithm on a simple problem.
